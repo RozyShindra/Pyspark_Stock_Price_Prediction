@@ -1,4 +1,4 @@
-# 📈 Stock Market Price Prediction using PySpark & yFinance
+# Stock Market Price Prediction using PySpark & yFinance
 
 ## Project Overview
 
@@ -25,7 +25,7 @@ Most traditional models fail to integrate large-scale time-dependent features ef
 
 ---
 
-## ✅ Proposed Approach
+## Proposed Approach
 
 This project implements a **step-by-step prediction pipeline** for forecasting stock closing prices:
 
