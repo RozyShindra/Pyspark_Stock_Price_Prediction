@@ -55,6 +55,11 @@ This project implements a **step-by-step prediction pipeline** for forecasting s
    - Report RMSE for each model.
    - Plot predicted vs actual prices.
 
+     <img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/3cfa4ecd-8d8b-4e59-beab-a7da3433e719" />
+     <img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/64d8ddbe-dfa1-4b8a-af4b-88f05834f689" />
+
+
+
 ---
 
 ## Future Scope
